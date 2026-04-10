@@ -23,11 +23,11 @@
 ## EDA 및 해석
 <img width="746" height="495" alt="churn count" src="https://github.com/user-attachments/assets/57b0aa1b-c317-4037-a4c4-0439eb247c0c" />
 이탈하지 않은 고객(0)이 대부분을 차지하고, 이탈 고객(1)은 상대적으로 적음
-### -> 데이터가 불균형 구조를 가짐
-### 모델 평가 시 Accuracy보다 F1-score 중심 평가 필요 판단
+###->데이터가 불균형 구조를 가짐
+###모델 평가 시 Accuracy보다 F1-score 중심 평가 필요 판단
 <img width="730" height="481" alt="Age " src="https://github.com/user-attachments/assets/5e31d302-4353-4e43-8d4b-4e9e4207ae0a" />
 그래프를 보면 대부분 고객이 30~40대에 집중되어 있음
-### -> 데이터가 특정 연령대에 몰려있음
+###->데이터가 특정 연령대에 몰려있음
 <img width="507" height="327" alt="Balance" src="https://github.com/user-attachments/assets/6f610267-45b8-4627-922a-4bd03c92ae7c" />
 잔액이 0에 몰려있는 것을 확인 할 수 있음
 --
