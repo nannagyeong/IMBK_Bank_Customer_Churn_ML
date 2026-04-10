@@ -1,6 +1,7 @@
 1. 프로젝트명: 고객 이탈 분류 ML 및 인사이트 분석
 2. 기간 : 2026년 4월 10일
 3. 기술스택:
+ 
 | Category | Libraries |
 |----------|----------|
 | Data Processing | pandas, numpy |
