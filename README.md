@@ -16,7 +16,6 @@
 데이터 출처: 캐글 Bank Customer Churn Dataset (row: 10000, col:12)
 
 ## 전처리
---
 - 고객 식별용 변수(`customer_id`) 제거 → 분석에 불필요
 - 범주형 변수 인코딩
   - `country`, `gender` → Label Encoding 적용
