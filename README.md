@@ -12,6 +12,7 @@
 | AutoML | pycaret |
 | Tuning | optuna |
 | Interpretation | shap |
+
 --
 데이터 출처: 캐글 Bank Customer Churn Dataset (row: 10000, col:12)
 
@@ -29,7 +30,7 @@
 <img width="730" height="481" alt="Age " src="https://github.com/user-attachments/assets/5e31d302-4353-4e43-8d4b-4e9e4207ae0a" />
 - 고객 연령이 30~40대에 집중되어 있음  
 
-→ 데이터가 특정 연령대에 편중된 구조를 가짐
+→ 데이터가 특정 연령대에 편중된 구조를 가짐  
 → 모델이 특정 연령대 패턴에 영향을 받을 가능성 존재
 <img width="507" height="327" alt="Balance" src="https://github.com/user-attachments/assets/6f610267-45b8-4627-922a-4bd03c92ae7c" />
 - 잔액이 0인 고객이 다수 존재함  
